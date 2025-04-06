@@ -4,6 +4,6 @@ draft = false
 title = 'Home'
 +++
 
-Hello! I'm Gabriel Lee (gabrielchl), I'm gona put something cool here one day.
+Hello! I'm Gabriel Lee (gabrielchl), I'm gonna put something cool here soon (TM).
 
 :\)
