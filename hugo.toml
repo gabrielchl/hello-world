@@ -2,3 +2,7 @@ baseURL = 'https://gabrielchl.dev/'
 languageCode = 'en-us'
 title = 'Gabriel Lee'
 theme = 'custom'
+
+[imaging]
+  quality = 90
+  resampleFilter = 'Lanczos'
