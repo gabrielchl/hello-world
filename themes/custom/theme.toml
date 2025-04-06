@@ -1,0 +1,15 @@
+name = 'Custom Theme'
+license = 'MIT'
+licenselink = 'https://github.com/owner/repo/LICENSE'
+description = 'A custom theme for gabrielchl.dev'
+
+# homepage = 'https://github.com/owner/repo'
+
+demosite = 'https://gabrielchl.dev'
+
+tags = ['blog']
+features = []
+
+[author]
+  name = 'Gabriel Lee'
+  homepage = 'https://gabrielchl.dev'
